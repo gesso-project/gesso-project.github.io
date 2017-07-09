@@ -96,3 +96,9 @@ img, .embed-responsive {
 iframe, .embed-responsive {
 	margin-bottom: 30px;
 }
+
+/* p, span.mgub-tab-space { */
+.mgub-tab-space a {
+	padding-right: 15px; /* 5em */
+	padding-left: 15px; /* 5em */
+}
