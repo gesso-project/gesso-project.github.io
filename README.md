@@ -1,5 +1,3 @@
-# machineeeee.github.io
+# gesso-project.github.io
 
-Machineee (/məˈSHēnē/).
-
-This is the webiste source code [machineee.com](http://machineee.com/).
+This is the webiste source code [ges.so](https://ges.so/).
