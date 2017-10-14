@@ -41,14 +41,14 @@ body h1 {
  }
 
 /* index.html multi-column styles. */
-.mgub-multicolumn-menu h1 {
+.theme-multicolumn-menu h1 {
   font-size: 12px;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
 
-.mgub-multicolumn-menu h2 {
+.theme-multicolumn-menu h2 {
   font-size: 18px;
   line-height: 22px;
   /* font-weight: 700; */
@@ -56,33 +56,33 @@ body h1 {
 }
 
 
-.mgub-multicolumn-menu p {
+.theme-multicolumn-menu p {
   font-size: 11pt;
   color: #777777;
 }
 
 /*
-.mgub-multicolumn-menu a:link {
+.theme-multicolumn-menu a:link {
   color: #000000 !important;
 }
 */
 
 /* ul.nav li a, ul.nav li a:visited { */
 /*
-.mgub-multicolumn-menu a:visited {
+.theme-multicolumn-menu a:visited {
   color: #000000 !important;
 }
 */
 
 /*
-.mgub-multicolumn-menu a:hover {
+.theme-multicolumn-menu a:hover {
   color: #000000 !important;
 }
 */
 
 /* ul.nav li a:hover, ul.nav li a:active { */
 /*
-.mgub-multicolumn-menu a:active {
+.theme-multicolumn-menu a:active {
   color: #000000 !important;
 }
 */
@@ -97,8 +97,8 @@ iframe, .embed-responsive {
 	margin-bottom: 30px;
 }
 
-/* p, span.mgub-tab-space { */
-.mgub-tab-space a {
+/* p, span.theme-tab-space { */
+.theme-tab-space a {
 	padding-right: 15px; /* 5em */
 	padding-left: 15px; /* 5em */
 }
